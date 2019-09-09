@@ -14,3 +14,5 @@ LazyData: true
 Imports: 
     vctrs,
     rlang
+URL: https://github.com/DavisVaughan/almanac2
+BugReports: https://github.com/DavisVaughan/almanac2/issues
